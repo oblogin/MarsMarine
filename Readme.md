@@ -4,6 +4,8 @@ Input Control
 
 
 WASD - Move
+
 R - Reload
+
 Left Click - Attack
 
